@@ -1,6 +1,6 @@
 ---
 title: "Lab 02"
-author: ""
+author: "Ellie"
 date: ""
 output: 
   html_document:
